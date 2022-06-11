@@ -1,0 +1,65 @@
+			h2.red{
+				font-family: "Verdana";
+				color: red;
+				line-height: 2.0;
+				text-align: center;
+				text-size: 20px;
+                text-transform:capitalize;
+			}
+            h1{
+				font-family: "Arial";
+				color: rgb(0, 0, 0);
+				line-height: 2.0;
+				text-align: center;
+				text-size: 20px;
+                text-transform:capitalize;
+			}
+			
+			p{
+				font-family: "Verdana";
+				color: black;
+				line-height: 2.0;
+				text-align: left;
+				text-size: 20px;
+                text-indent: 50px;
+                letter-spacing: 3px;
+			}
+			
+			.verde{
+				font-family: "Verdana";
+				color: rgb(156, 16, 16);
+				line-height: 2.0;
+				text-align: center;
+				text-size: 20px;
+                align:center;
+                width: 50%; 
+			}
+            .imagem{
+	            font-family: "Verdana";
+	            color: blue;
+	            line-height: 2.0;
+	            align: center;
+	            text-size: 20px;
+                width: 50%;
+	            
+            }
+            .borda{
+                outline-style:double;
+	            outline-width: 10px;
+	            outline-color: black; 
+                padding: 8px;
+                border: 1px solid rgb(2, 2, 2);   
+                       
+            }
+            .borda2{
+	            outline-width: 10px;
+	            outline-color: rgb(248, 223, 0); 
+                padding: 8px;
+                border: 1px solid rgb(2, 2, 2);
+                width: 80%;      
+            }
+            body{
+                background-image: linear-gradient(to right top,rgb(35, 194, 48),rgb(42, 29, 226));
+                background-attachment: fixed;
+            }
+		
